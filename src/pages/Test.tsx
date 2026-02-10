@@ -1,5 +1,7 @@
 const Test = () => {
   const write = "szia";
+  const murva = false;
+  const durva = true;
 
   return (
     <>
